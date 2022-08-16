@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'Merriweather', serif;
 }
 .logo {
     width: 80px;
@@ -10,12 +10,14 @@ body {
 .navigation {
     background-color: black;
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 .navigation a {
     color: white;
     text-decoration: none;
 }
 .banner {
+    font-family: 'Monoton', cursive;
     height: 400px;
     background-color: aquamarine;
     background-image: url("images/claudio-schwarz-ipcsI15th5I-unsplash.jpg");
