@@ -22,3 +22,13 @@ body {
     background-color: aquamarine;
     background-image: url("images/claudio-schwarz-ipcsI15th5I-unsplash.jpg");
 }
+
+.social {
+    /* font-size:24px; */
+    font-size: 2rem;
+}
+
+.social a {
+    color: #000000;
+    text-decoration: none;
+}
